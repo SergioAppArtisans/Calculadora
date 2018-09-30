@@ -12,7 +12,7 @@ function getInput() {
           echo "Digitos: $FD, $LD "
  int0=$FD
  int1=$LD
-echo ""mark #; circle 40 50 20;""
+
 
 }
 function getInputMul() {
